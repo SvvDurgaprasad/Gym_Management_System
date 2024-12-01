@@ -48,3 +48,12 @@ The Gym Management System is a web-based application built using **Python**, **D
 ```bash
 git clone https://github.com/your-username/gym-management-system.git
 cd gym-management-system
+```
+## **Step 2: Install Dependencies**
+Create a virtual environment (recommended) and install the required libraries:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
